@@ -1,4 +1,5 @@
 {
     "project_slug": "helloworld",
-    "version": "0.1"
+    "version": "0.1",
+    "use_graphql": "n"
 }
